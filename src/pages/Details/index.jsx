@@ -1,4 +1,6 @@
 import { Fragment } from "react"
+/* Quando importamos assim, automaticamente será aplicado o css em nossos elementos dessa página */
+import "./styles.css"
 
 export function Details() {
   return (
