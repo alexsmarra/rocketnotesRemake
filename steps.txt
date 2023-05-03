@@ -1,0 +1,4 @@
+1- Abrir o terminal (fora do vscode) e na pasta desejada    npm create vite@latest   e depois
+proceder como dito no passo a passo pelo próprio terminal
+
+2- para executar o projeto   npm run dev
