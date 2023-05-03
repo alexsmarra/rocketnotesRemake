@@ -2,3 +2,7 @@
 proceder como dito no passo a passo pelo próprio terminal
 
 2- para executar o projeto   npm run dev
+
+3- npm install --save styled-components   para instalar nosso processador / organizador de css,
+para escrevermos css dentro de js
+
